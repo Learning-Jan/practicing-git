@@ -55,8 +55,9 @@
 
 ` Logical areas In Git:- `
 
->> |Working Area (Untracked Files)              |                        Staging area (Tracked Files)                  |    Local repository |
-   |--------------------------------------------|----------------------------------------------------------------------|--------------------|                           
+>> Working Area (Untracked Files)                                      Staging area (Tracked Files)                                 Local repository
+   =============================                                      ============================                                 ==================
+  Apple.txt 
   Chandu.css
                        ------------------------->
                             Git add                                        Apple.txt
