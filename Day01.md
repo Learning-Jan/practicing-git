@@ -80,6 +80,9 @@
    If existing file -- you can directly move from working area to Local repository by using -a flag => git commit -a -m "Your message"
    Then Push the chages to remote repository.
 
+   Working Area --> (git add) --> Staging Area --> (git commit) --> Local Repo --> (git push) --> Remote Repo
+
+
    For the first time you are commiting it will ask who you are..
    you can tell with below command
    
