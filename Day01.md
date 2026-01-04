@@ -56,9 +56,10 @@
 ```
     >> git status :- It will tell is there any files are in working area (Untracked) or Staging area (tracked)
 
-` Logical areas In Git:- `
+```
+ ` Logical areas In Git:- `
 
- >> Working Area (Untracked Files)                                      Staging area (Tracked Files)                                 Local repository
+  >> Working Area (Untracked Files)                                      Staging area (Tracked Files)                                 Local repository
    =============================                                      ============================                                 ==================
   Apple.txt 
   Chandu.css
@@ -67,43 +68,45 @@
                                                                     Chandu.css                git commit   
                                                                                     ---------------------------->               Commit ID (Apple.txt and Chandu.css)
 
-  When create a file or modified existing files those are avaible in your Working area (check with git status )
-  In order to move staging area You can use git add command
+   When create a file or modified existing files those are avaible in your Working area (check with git status )
+   In order to move staging area You can use git add command
                                                          git add .
                                                          git add *
                                                          git add specific filename
                                                          git add f1 f2 f3 f4 --
 
-  From staging area to your local repo .. git commit -m "Message" 
+   From staging area to your local repo .. git commit -m "Message" 
 
-  If existing file -- you can directly move from working area to Local repository by using -a flag => git commit -a -m "Your message"
-  Then Push the chages to remote repository.
+   If existing file -- you can directly move from working area to Local repository by using -a flag => git commit -a -m "Your message"
+   Then Push the chages to remote repository.
 
-  For the first time you are commiting it will ask who you are..
-  you can tell with below command
+   For the first time you are commiting it will ask who you are..
+   you can tell with below command
    
                               git config --global user.name "Your name"
                               git config --global user.email "Your email"
                  To check - git config --global --list
+```                 
 
 
-  How to mapp Your local repository to remote repository ?
+  ### How to mapp Your local repository to remote repository ?
 
-  #### git remote add  chandu1 https:/url
-  here chadnu1 - is the alias it will register url in chandu1 
+>   git remote add  chandu1 https:/url
+    here chadnu1 - is the alias it will register url in chandu1 
 
-  so next time you no need to give full url just git push chandu1 master (to for pushing)
+   so next time you no need to give full url just git push chandu1 master (to for pushing)
 
->> git log ---- Git log command will show what are the commits having in  your local repositry and which are pushed into remote repo.
+```
+ git log ---- Git log command will show what are the commits having in  your local repositry and which are pushed into remote repo.
 
   if commit HEAD pointing to master only that means it is pointing you local repository not pushed the changes
   if commit HEAD pointing to orgin/master origin/HEAD that means those commits are pushed.
 
   By default git log command will give details output, It see the output usable you can use below command
->>  git log --oneline
+  git log --oneline
+```
+> git show commit id - will give what changes done at what file.
 
->> git show commit id - will give what changes done at what file.
-
- git show --pretty="" --name-only commit id ==> will show the only filename
+>  git show --pretty="" --name-only commit id ==> will show the only filename
 
 
