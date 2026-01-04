@@ -78,7 +78,7 @@ Safe for shared branches because it does not remove old commits.
 * Files listed here will not appear in git status and won’t be pushed to remote.
 
 || Importance of .gitignore
-
+```
  Keeps repository clean
 
  Prevents unnecessary or temporary files from cluttering the repo.
@@ -103,8 +103,8 @@ Safe for shared branches because it does not remove old commits.
  !text.json - to allow only this file
  temp/
  By default git ignores empty folder remember it.
+```
 
- 
 
 
  
