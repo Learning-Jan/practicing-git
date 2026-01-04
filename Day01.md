@@ -126,7 +126,7 @@ git commit -m "message"
 > [!NOTE]
 > This is a note
 
-> [!]
+> [!WARNING]
 > Be careful with this command
 
 > [!TIP]
