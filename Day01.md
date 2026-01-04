@@ -1,5 +1,5 @@
 # Day-01
-
+> [!TIP]
 > GitHub:- It is an online source control management. used to store Mangae & collabrate on code. Simply it is centralized datebase for our code.
     Where you can keep the code and take update and push the changed again. so that every one have the update code.
 
