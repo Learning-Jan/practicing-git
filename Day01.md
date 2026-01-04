@@ -36,9 +36,10 @@
 
 ### Git commands:- 
 
-> [!TIP]
 
-> [!Must know] git init:- When You ran the command inside your git folder then it will create a empty local repository.
+```
+ git init:- 
+ When You ran the command inside your git folder then it will create a empty local repository.
             The normal folder now became Git-Managed project folder. It will start tracking the files/folders which are inside.
             Also it will create a .git folder and the .git contain 
                                                                  complete version history
@@ -52,7 +53,7 @@
 
 
     To check whether your folder under git control/Git init happend or not , You can run git status and see..
-> [!Success]
+```
     >> git status :- It will tell is there any files are in working area (Untracked) or Staging area (tracked)
 
 ` Logical areas In Git:- `
@@ -105,31 +106,4 @@
 
  git show --pretty="" --name-only commit id ==> will show the only filename
 
- ✅ Success  
-❌ Wrong  
-⚠️ Warning  
-💡 Tip  
-📌 Important  
-🔥 Must know
 
-
-| Command | Purpose |
-|-------|--------|
-| `git status` | Check repo status |
-| `git pull` | Get latest changes |
-
-
-```bash
-git status
-git add .
-git commit -m "message"
-```
-
-> [!NOTE]
-> This is a note
-
-> [!WARNING]
-> Be careful with this command
-
-> [!TIP]
-> Use `git status` frequently
