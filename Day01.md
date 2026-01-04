@@ -1,34 +1,34 @@
 # Day-01
 > [!TIP]
 > GitHub:- It is an online source control management. used to store Mangae & collabrate on code. Simply it is centralized datebase for our code.
-    Where you can keep the code and take update and push the changed again. so that every one have the update code.
-
-        https://github.com ==> Public
-
-             https://chandu.dneg.com ===> is the enterprise edition one.
-
-    IN the Market similar SCm are avaible:-
-
-                                       GitHub
-                                       GitLAb
-                                       BitBucket
-                                       SVN
-                                       CVS
-                                       TFS
-
-  To practice the Git we have to create an account on GitHUb it is free.
-
- Once you create account -
-                         create a repo
-                         create a team
-                         add your teammates or learning partners in the team
-                         Provide repo access to the team.
-
-       To do above first you need to create a organization:-
-                                                            Form the top + botton => Create Org => Pick a Plan => free
-                                                            org-name: give orgname
-                                                            contact: give email
-                                                            then select for my personal account
+>   Where you can keep the code and take update and push the changed again. so that every one have the update code.
+>
+>        https://github.com ==> Public
+>
+>             https://chandu.dneg.com ===> is the enterprise edition one.
+>
+>   IN the Market similar SCm are avaible:-
+>
+>                                      GitHub
+>                                      GitLAb
+>                                       BitBucket
+>                                       SVN
+>                                      CVS
+>                                       TFS
+>
+>  To practice the Git we have to create an account on GitHUb it is free.
+>
+> Once you create account -
+>                         create a repo
+>                        create a team
+>                        add your teammates or learning partners in the team
+>                        Provide repo access to the team.
+>
+>       To do above first you need to create a organization:-
+>                                                            Form the top + botton => Create Org => Pick a Plan => free
+>                                                            org-name: give orgname
+>                                                            contact: give email
+>                                                            then select for my personal account
 
 >> Then create a repo start practicing..
 
