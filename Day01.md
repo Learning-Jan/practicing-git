@@ -93,8 +93,7 @@
 
 >   git remote add  chandu1 https:/url
     here chadnu1 - is the alias it will register url in chandu1 
-
-   so next time you no need to give full url just git push chandu1 master (to for pushing)
+     so next time you no need to give full url just git push chandu1 master (to for pushing)
 
 ```
  git log ---- Git log command will show what are the commits having in  your local repositry and which are pushed into remote repo.
