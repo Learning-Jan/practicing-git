@@ -109,3 +109,25 @@
 💡 Tip  
 📌 Important  
 🔥 Must know
+
+
+| Command | Purpose |
+|-------|--------|
+| `git status` | Check repo status |
+| `git pull` | Get latest changes |
+
+
+```bash
+git status
+git add .
+git commit -m "message"
+```
+
+> [!NOTE]
+> This is a note
+
+> [!WARNING]
+> Be careful with this command
+
+> [!TIP]
+> Use `git status` frequently
