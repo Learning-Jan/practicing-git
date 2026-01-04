@@ -38,7 +38,7 @@
 
 > [!Tip]
 
-> git init:- When You ran the command inside your git folder then it will create a empty local repository.
+> [!Must know] git init:- When You ran the command inside your git folder then it will create a empty local repository.
             The normal folder now became Git-Managed project folder. It will start tracking the files/folders which are inside.
             Also it will create a .git folder and the .git contain 
                                                                  complete version history
