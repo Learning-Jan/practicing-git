@@ -1,5 +1,5 @@
 # Day-01
-> [!IMPORTANT NOTES]
+> [!IMPORTANT]
 >GitHub:- It is an online source control management. used to store Mangae & collabrate on code. Simply it is centralized datebase for our code.
 >   Where you can keep the code and take update and push the changed again. so that every one have the update code.
 >
@@ -36,7 +36,7 @@
 
 ### Git commands:- 
 
-> [!Tip]
+> [!TIP]
 
 > [!Must know] git init:- When You ran the command inside your git folder then it will create a empty local repository.
             The normal folder now became Git-Managed project folder. It will start tracking the files/folders which are inside.
@@ -52,12 +52,12 @@
 
 
     To check whether your folder under git control/Git init happend or not , You can run git status and see..
-
->> git status :- It will tell is there any files are in working area (Untracked) or Staging area (tracked)
+> [!Success]
+    >> git status :- It will tell is there any files are in working area (Untracked) or Staging area (tracked)
 
 ` Logical areas In Git:- `
 
->> Working Area (Untracked Files)                                      Staging area (Tracked Files)                                 Local repository
+ >> Working Area (Untracked Files)                                      Staging area (Tracked Files)                                 Local repository
    =============================                                      ============================                                 ==================
   Apple.txt 
   Chandu.css
