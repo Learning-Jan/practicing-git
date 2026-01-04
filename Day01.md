@@ -1,6 +1,6 @@
 # Day-01
 
->> GitHub:- It is an online source control management. used to store Mangae & collabrate on code. Simply it is centralized datebase for our code.
+> GitHub:- It is an online source control management. used to store Mangae & collabrate on code. Simply it is centralized datebase for our code.
     Where you can keep the code and take update and push the changed again. so that every one have the update code.
 
         https://github.com ==> Public
@@ -18,7 +18,7 @@
 
   To practice the Git we have to create an account on GitHUb it is free.
 
-O  nce you create account -
+ Once you create account -
                          create a repo
                          create a team
                          add your teammates or learning partners in the team
@@ -102,3 +102,10 @@ O  nce you create account -
 >> git show commit id - will give what changes done at what file.
 
  git show --pretty="" --name-only commit id ==> will show the only filename
+
+ ✅ Success  
+❌ Wrong  
+⚠️ Warning  
+💡 Tip  
+📌 Important  
+🔥 Must know
