@@ -111,4 +111,7 @@
 
 >  git show --pretty="" --name-only commit id ==> will show the only filename
 
-
+``` 
+For suppose you given commit with wrong message but didn't push , you can change the message by using below
+  git commit --amend -m "your new message" 
+```
