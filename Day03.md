@@ -84,7 +84,7 @@ command :- git cherry-pick commitid
 > Git clone - you can download the repostiory by using git clone ssh url or https url
     command:- git clone url
 
-> Git fetch ==> Will get the update data form remote repo to local repo but inorder to get working copy you need to again run git merge orgin/master
+> Git fetch ==> Will get the update data form remote repo to local repo but in order to get working copy you need to again run git merge orgin/master
 
 > Git pull ==> it will get the updated code from remote to local & working copy 
  Simply git pull => git fetch+git merge
