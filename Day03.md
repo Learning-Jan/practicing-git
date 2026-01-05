@@ -16,7 +16,7 @@ Usually we are using the devlopment and testing brnaches mostly.
 * git branch - To list the all branch , You can us -a to list remote branch as well
 * git branch brname - it will create a new branch
 * git checkout branchname - to switch to another branch
-* git branch -b branchname -- In one command it will create branch and it will switch you
+* git checkout -b branchname -- In one command it will create branch and it will switch you
 * git branch -d branchename - do delete the branch if there is no un merged commits
 * git branch -D branchname - do delete forcefull even unmerged commits
 
