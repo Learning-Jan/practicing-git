@@ -61,9 +61,9 @@ then you can use
 ```
 For suppose you have 3 branches master,dev,stage, Currently you are working on dev branch , Due to emergency you have to fix issue on master branch.
 So whatever work you are doing in dev not completed, but you need to switch to master , However without commit the changes you can't switch into another branch.
-In this situation you can save your workin temporarely. by below
+In this situation you can save your workin temporarely. by below 
 
-git stash -- to take temporary backup
+git stash -- to take temporary backup    
 git stash list -- howmany backup are there
 git stash apply -- back to normal 
 git stash apply stash{3)} - to apply specfic one
